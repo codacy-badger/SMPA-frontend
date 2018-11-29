@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/AymanBenmada/SMPA-frontend.svg?branch=master)](https://travis-ci.org/AymanBenmada/SMPA-frontend)
+[![Coverage Status](https://coveralls.io/repos/github/AymanBenmada/SMPA-frontend/badge.svg?branch=master)](https://coveralls.io/github/AymanBenmada/SMPA-frontend?branch=master)
 
 # SMPA-frontend
 
